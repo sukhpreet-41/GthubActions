@@ -46,5 +46,11 @@
 			</plugin>
 		</plugins>
 	</build>
-
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/sukhpreet-41/GithubActions</url>
+    </repository>
+  </distributionManagement>
 </project>
