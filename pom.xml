@@ -50,7 +50,7 @@
     <repository>
       <id>github</id>
       <name>GitHub Packages</name>
-      <url>https://maven.pkg.github.com/sukhpreet-41/GithubActions</url>
+      <url>https://maven.pkg.github.com/sukhpreet-41/GthubActions</url>
     </repository>
   </distributionManagement>
 </project>
